@@ -8,3 +8,4 @@ CREATE TABLE `usermanagement`.`user` (
   `status` VARCHAR(45) NULL,
   PRIMARY KEY (`id`))
 COMMENT = 'User Management System – Nodejs, Express, MySQL & Express-Handlebars /RaddyTheBrand';
+
